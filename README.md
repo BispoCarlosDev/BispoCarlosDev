@@ -1,4 +1,4 @@
-<h2 align="left">👋 Olá! Aceita uma Xícara de Café? ☕</h2>
+<h2 align="center">👋 Olá! Aceita uma Xícara de Café? ☕</h2>
 
 ###
 
