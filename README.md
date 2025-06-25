@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Techs</h3>
+<h3 align="center">Techs</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
@@ -34,11 +34,11 @@
 
 ###
 
-<h3 align="left">Social Media</h3>
+<h3 align="center">Social Media</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/carlos-eduardo-de-oliveira-bispo-588877262/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
